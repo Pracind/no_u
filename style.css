@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+  }
+
+  #punchline{
+    text-transform: uppercase;
+    font-size: 2rem;
+
+  }
+
+  #nou{
+    border: 2px solid white;
+    width: 100%;
+
+  }
+
+  .poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    padding: 25px;
+    border: 2px solid;
+  }
